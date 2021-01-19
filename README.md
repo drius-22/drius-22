@@ -1,7 +1,5 @@
 ### Hi 👋
 
-<!--
-**drius-22/drius-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a senior undergraduate student working towards an Honours B.Sc. in Physics and Computer Science, with Engineering background and experience in Research and Software Development. 
 
 
@@ -17,4 +15,4 @@ I'm a senior undergraduate student working towards an Honours B.Sc. in Physics a
 ## 💬 Drop me a line with something new about science or computers 
 
 ## ⚡ Fun fact:  Only 8% of the world’s currency is physical money, the rest only exists on computers.
--->
+

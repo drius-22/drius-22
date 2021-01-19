@@ -13,16 +13,12 @@ I'm a senior undergraduate student working towards an Honours B.Sc. in Physics a
 
 ## 📬 Get in touch
 
-👉🏻👉🏻 Check out my personal website at: [jlozano.herokuapp.com][1]  
+👉🏻👉🏻 Check out my personal website at : [jlozano][1]  
 
 👉🏻👉🏻 Check out my startup at : [CognitioCyT][2] 
 
-[1] : https://jlozano.herokuapp.com
-[2] : http://www.cognitiocyt.tech
 
-
-[1]:
-  https://jlozano.herokuapp.com
+[1]: https://jlozano.herokuapp.com
 [2]: http://www.cognitiocyt.tech
 
 

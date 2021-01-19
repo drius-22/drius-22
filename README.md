@@ -17,21 +17,8 @@ I'm a senior undergraduate student working towards an Honours B.Sc. in Physics a
 
 👉🏻👉🏻 Check out my startup at : [CognitioCyT][2] 
 
-[1] : https://jlozano.herokuapp.com/
-[2] : http://www.cognitiocyt.tech/
-
-## &#x1f4c8; My GitHub Stats
+[1] : https://jlozano.herokuapp.com
+[2] : http://www.cognitiocyt.tech
 
 
-[1]:
-  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[2]: https://www.linkedin.com/in/natterstefan
-[3]: https://www.twitter.com/natterstefan
-[4]: https://blog.natterstefan.me
-[5]:
-  https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[6]: https://medium.com/@natterstefan
-[7]: https://hashnode.com/@natterstefan
-[8]: https://nttr.st/2QoQhEb
-[9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/natterstefan
+

@@ -9,7 +9,7 @@ I'm a senior undergraduate student working towards an Honours B.Sc. in Physics a
 
 ## 🌱 I’m currently learning 
 - Algorithms for UAV three-dimensional path planning
-- Path planning for automated
+- Algorithmic trading
 
 
 ## 💬 Drop me a line with something new about science or computers 

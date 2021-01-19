@@ -17,7 +17,7 @@ I'm a senior undergraduate student working towards an Honours B.Sc. in Physics a
 ## ⚡ Fun fact:  Only 8% of the world’s currency is physical money, the rest only exists on computers.
 
 
-👉🏻👉🏻 Check out my personal website at [jlozano.herokuapp.com] [#1]  or my startup at [CognitioCyT] [#2] 
+👉🏻👉🏻 Check out my personal website at [jlozano.herokuapp.com][1]  or my startup at [CognitioCyT][2] 
 
 
 [1] : https://jlozano.herokuapp.com/

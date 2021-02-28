@@ -21,5 +21,6 @@ I'm a senior undergraduate student working towards an Honours B.Sc. in Physics a
 [1]: https://jlozano.herokuapp.com
 [2]: http://www.cognitiocyt.tech
 
+*  >> Note all my projects are private repositories due to the nature of work with academia and industry. 
 
 

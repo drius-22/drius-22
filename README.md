@@ -15,7 +15,7 @@ I'm a senior undergraduate student working towards an Honours B.Sc. in Physics a
 
 👉🏻👉🏻 Check out my personal website at : [jlozano][1]  
 
-👉🏻👉🏻 Check out my startup at : [CognitioCyT][2] 
+<!-- 👉🏻👉🏻 Check out my startup at : [CognitioCyT][2]  -->
 
 
 [1]: https://jlozano.herokuapp.com

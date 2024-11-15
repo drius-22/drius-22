@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a software engineer at Amazon Web services. Let's get in touch! 
+I'm a software engineer at Confluent. Let's get in touch! 
 
 
 
